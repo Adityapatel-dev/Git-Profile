@@ -203,9 +203,7 @@
 
 <br />
 
-![](https://ForTheBadge.com/images/badges/built-with-love.svg)
-
-![](https://img.shields.io/github/followers/adityapatel-dev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
-
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Adityapatel-dev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Adityapatel-dev" /></a></p><br><br>
 
 <br/>
