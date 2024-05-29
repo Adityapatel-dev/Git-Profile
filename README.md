@@ -18,7 +18,7 @@
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on <b>cool project.</b><br/>
 • 💬 Ask me about <b>Full Stack</b>.<br/>
-• 📫 Reach me out <a href="https://www.instagram.com/a.adyyyy"><b>@a.adyyyy</b></a><br/>
+• 📫 How to reach me **adityapatel1998oct@gmail.com**
 </span>
 
 <br />
@@ -26,40 +26,27 @@
 
 <!-- ## 🏆 **GITHUB TROPHY**
 
-![](https://github-profile-trophy.vercel.app/?username=aaadyyy69&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)
+![](https://github-profile-trophy.vercel.app/?username=adityapatel-dev&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)
 
-<a href="http://www.github.com/aaadyyy69"><img src="https://activity-graph.herokuapp.com/graph?username=aaadyyy69&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/adityapatel-dev"><img src="https://activity-graph.herokuapp.com/graph?username=adityapatel-dev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <br /> -->
 
 # 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaadyyy69&show_icons=true&locale=en" alt="aaadyyy69" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityapatel-dev&show_icons=true&locale=en" alt="adityapatel-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaadyyy69&" alt="aaadyyy69" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityapatel-dev&" alt="adityapatel-dev" /></p>
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaadyyy69" alt="aaadyyy69" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityapatel-dev" alt="adityapatel-dev" /></a> </p>
 
 
-## 🌏 **CONNECT WITH ME**
-
-<a href="https://www.instagram.com/highondettoll"> 
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
-</a>
-
-<!-- <a href="mailto:adityapatel1998oct@gmail.com"> 
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
-</a> -->
-<!-- <a href="https://www.github.com/aaadyyy69"> 
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
-</a> -->
-<!--<a  href="https://www.linkedin.com/in/aadyyyy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
-</a>-->
-<a href="https://codepen.io/aaadyyy69"> 
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
-</a>
-<br />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aadyyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadyyyy" height="30" width="40" /></a>
+<a href="https://instagram.com/a.adyyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.adyyyy" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adityapatel-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityapatel-dev" height="30" width="40" /></a>
+</p>
 
 ## 🕸️ **WEB DEV**
 
@@ -208,7 +195,7 @@
 [gog]: https://www.geeksforgeeks.org/
 [fcc]: https://www.freecodecamp.org/
 [sof]: https://stackoverflow.com/
-[repo]: https://github.com/aaadyyy69?tab=repositories
+[repo]: https://github.com/adityapatel-dev?tab=repositories
 
 <hr />
 
@@ -218,7 +205,7 @@
 
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
 
-![](https://img.shields.io/github/followers/aaadyyy69?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
+![](https://img.shields.io/github/followers/adityapatel-dev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
 
 
 <br/>
