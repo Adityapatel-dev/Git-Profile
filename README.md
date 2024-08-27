@@ -17,15 +17,9 @@
 
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on <b>cool project.</b><br/>
-• 💬 Ask me about <b>Full Stack</b>.<br/>
+• 💬 Ask me about <b>Frontedn Development</b>.<br/>
 • 📫 How to reach me **adityapatel1998oct@gmail.com**
 </span>
-
-<br />
-<br />
-
-<!-- ## 🏆 **GITHUB TROPHY**
-
 ![](https://github-profile-trophy.vercel.app/?username=adityapatel-dev&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)
 
 <a href="http://www.github.com/adityapatel-dev"><img src="https://activity-graph.herokuapp.com/graph?username=adityapatel-dev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
