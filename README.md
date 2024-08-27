@@ -17,7 +17,7 @@
 
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on <b>cool project.</b><br/>
-• 💬 Ask me about <b>Frontedn Development</b>.<br/>
+• 💬 Ask me about <b>Frontend Development</b>.<br/>
 • 📫 How to reach me **adityapatel1998oct@gmail.com**
 </span>
 ![](https://github-profile-trophy.vercel.app/?username=adityapatel-dev&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)
